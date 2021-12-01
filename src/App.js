@@ -1,24 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import 'animate.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route
+} from "react-router-dom";
+import Navigation from './components/Pages/Navigation/Navigation';
+import SingleProject from './components/Pages/SingleProject/SingleProject';
+import Home from './components/Pages/Home/Home';
+import Blogs from './components/Pages/Blogs/Blogs';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+          <Navigation></Navigation>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/projects/:projectKey" element={<SingleProject />} />
+          <Route path="/blogs" element={<Blogs />} />
+        </Routes>
+    </Router>
   );
 }
 

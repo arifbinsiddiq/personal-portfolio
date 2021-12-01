@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "projectName": "Motobike",
+      "img": "https://i.ibb.co/Mh46kLC/Motobike.png",
+      "description": "This project is made entirely with React JS. The purpose of this project is that when a normal user logs in, he will be able to buy products just like him and see his order in the dashboard. And when an admin logs in, he can see the orders of all the users and can make any user an admin if the admin wants.",
+      "liveLink": "https://motobike-33b44.web.app/",
+      "codeLink": "https://github.com/Arif-Bin-Siddiq/-niche-website-client-side",
+      "serverLink": "https://github.com/Arif-Bin-Siddiq/-niche-website-server-side"
+    },
+    {
+      "id": 2,
+      "projectName": "ABS Tourist Agency",
+      "img": "https://i.ibb.co/nz3w32s/ABS-Tourist-Agency.png",
+      "description": "This project is made entirely with React JS. The purpose of this project is that when a normal user logs in, he will be able to buy products just like him and see his order in the dashboard. And when an admin logs in, he can see the orders of all the users and can make any user an admin if the admin wants.",
+      "liveLink": "https://abs-tourist-agency.web.app/",
+      "codeLink": "https://github.com/Arif-Bin-Siddiq/-tourism-or-delivery-website-client-side",
+      "serverLink": "https://github.com/Arif-Bin-Siddiq/tourism-or-delivery-website-server-side"
+    },
+    {
+      "id": 3,
+      "projectName": "ABS Medicare",
+      "img": "https://i.ibb.co/Hz0Y7M2/ABS-Medicare.png",
+      "description": "This project is made entirely with React JS. The purpose of this project is that when a normal user logs in, he will be able to buy products just like him and see his order in the dashboard. And when an admin logs in, he can see the orders of all the users and can make any user an admin if the admin wants.",
+      "liveLink": "https://abs-medi-care.web.app/",
+      "codeLink": "https://github.com/Arif-Bin-Siddiq/-healthcare-related-website",
+      "serverLink": ""
+    },
+    {
+      "id": 4,
+      "projectName": "ABS Educare",
+      "img": "https://i.ibb.co/hfkpwwn/ABS-Educare.png",
+      "description": "This project is made entirely with React JS. The purpose of this project is that when a normal user logs in, he will be able to buy products just like him and see his order in the dashboard. And when an admin logs in, he can see the orders of all the users and can make any user an admin if the admin wants.",
+      "liveLink": "https://abs-educare-arif-bin-siddiq.netlify.app/",
+      "codeLink": "https://github.com/Arif-Bin-Siddiq/educational-website",
+      "serverLink": ""
+    },
+    {
+      "id": 5,
+      "projectName": "Panda Commerce",
+      "img": "https://i.ibb.co/nf2Yhzw/Panda-Commerce.png",
+      "description": "This project is made entirely with React JS. The purpose of this project is that when a normal user logs in, he will be able to buy products just like him and see his order in the dashboard. And when an admin logs in, he can see the orders of all the users and can make any user an admin if the admin wants.",
+      "liveLink": "https://arif-bin-siddiq.github.io/panda-commerce-boostrap/",
+      "codeLink": "https://github.com/Arif-Bin-Siddiq/panda-commerce-boostrap",
+      "serverLink": ""
+    },
+    {
+      "id": 6,
+      "projectName": "Football Club",
+      "img": "https://i.ibb.co/XLdXfVs/Football-Club.png",
+      "description": "This project is made entirely with React JS. The purpose of this project is that when a normal user logs in, he will be able to buy products just like him and see his order in the dashboard. And when an admin logs in, he can see the orders of all the users and can make any user an admin if the admin wants.",
+      "liveLink": "https://arif-bin-siddiq.github.io/responsive-football-club/",
+      "codeLink": "https://github.com/Arif-Bin-Siddiq/responsive-football-club",
+      "serverLink": ""
+    }
+  ]

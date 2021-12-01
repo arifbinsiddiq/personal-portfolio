@@ -1,0 +1,27 @@
+.singleProject-section{
+    background-color: #111111;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.single-project-img{
+    width: 100%;
+}
+
+.single-project-img img{
+    max-width: 100%;
+}
+
+.single-project-info{
+    color: #ffffff;
+}
+
+.project-links button{
+    background-color: #FFB400;
+    color: #ffffff;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}

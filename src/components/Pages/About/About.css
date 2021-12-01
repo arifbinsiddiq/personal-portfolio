@@ -1,0 +1,37 @@
+.about-section{
+    background-color: #111111;
+    padding: 60px 0px;
+}
+
+.about-heading{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+.about-heading span{
+    color: #ffb400;
+}
+
+.about-details{
+    padding-right: 30px;
+}
+
+.about-details p{
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.about-img{
+    padding-left: 30px;
+    width: 100%;
+}
+
+.about-img img{
+    width: 100%;
+}

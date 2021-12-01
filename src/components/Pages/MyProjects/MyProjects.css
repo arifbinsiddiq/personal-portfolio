@@ -1,0 +1,36 @@
+.project-section{
+    background-color: #111111;
+    padding: 60px 0px;
+}
+
+.project-heading{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+.project-heading span{
+    color: #ffb400;
+}
+
+#projects-img{
+    height: 350px;
+}
+
+.project-title{
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: #111111;
+}
+
+.details-btn{
+    background-color: #FFB400;
+    color: #ffffff;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+}

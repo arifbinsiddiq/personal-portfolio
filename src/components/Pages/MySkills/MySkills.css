@@ -1,0 +1,40 @@
+.skill-section{
+    background-color: #111111;
+    padding: 60px 0px;
+}
+
+.skill-heading{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+.skill-heading span{
+    color: #ffb400;
+}
+
+.skills-img{
+    width: 100%;
+}
+
+.skills-img img{
+    width: 100%;
+}
+
+.skills-details{
+    padding-top: 50px;
+}
+
+.progress-pading{
+    margin-bottom: 15px;
+}
+
+.progress-info{
+    text-align: start;
+}
+
+.progress-info h6{
+    color: #FFFFFF;
+}

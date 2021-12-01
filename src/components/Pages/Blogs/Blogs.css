@@ -1,0 +1,15 @@
+.blogs-section{
+    width: 100%;
+    height: 100vh;
+    background-color: #111111;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.blogs-section h2{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 48px;
+    font-weight: 700;
+}
